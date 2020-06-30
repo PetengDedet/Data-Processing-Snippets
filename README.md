@@ -17,7 +17,6 @@ pd.read_csv("file.csv", sep=";")
 ```
 * Pandas Run SQL Query
 ```python
-"""
 import pandas as pd
 from sqlalchemy import create_engine
 
